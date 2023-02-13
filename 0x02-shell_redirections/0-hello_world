@@ -1,2 +1,2 @@
 #!/bin/bash
-int main(){Printf("Hello,World"\n);return 0;}
+echo"Hello,World"
